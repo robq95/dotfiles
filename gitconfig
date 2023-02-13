@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = robertg.li@yahoo.com
-	name = Robert Li
+	email = robertg,li@yahoo.com
+	name = robertli
